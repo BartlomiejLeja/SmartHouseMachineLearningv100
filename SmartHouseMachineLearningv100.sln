@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHouseMachineLearningv100", "SmartHouseMachineLearningv100\SmartHouseMachineLearningv100.csproj", "{AA314B85-F4D2-478A-8647-EF0014D5C042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA314B85-F4D2-478A-8647-EF0014D5C042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA314B85-F4D2-478A-8647-EF0014D5C042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA314B85-F4D2-478A-8647-EF0014D5C042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA314B85-F4D2-478A-8647-EF0014D5C042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8736D6A8-7286-406E-BAB7-02383128509B}
+	EndGlobalSection
+EndGlobal
